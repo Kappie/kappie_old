@@ -5,7 +5,9 @@
 
 <body>
   <div class="container">
-    <h1><a href="/">{{ site.h1_tag_text }}</a></h1>
+    <p><a href="/">Terug</a></p>
+    <h2>{{ page.title }}</h1>
+    <p>{{ page.date | date: "%B %d, %Y" }}</p>
     {{ content }}
   </div>
 {% include scripts.html %}
