@@ -192,7 +192,7 @@ We can even handle multiline input, by adding a `multiLineCallback` to `jqconsol
   ///ig
 ```
 
-Whew! It's easier than it looks. When you provide a `multiLineCallback` to `jqconsole.Prompt`, all user input gets evaluated by this function. When it returns `false`, it means the input is ready for evaluation, and it is passed to the `PromptHandler`. When `multiLineCallback` returns an integer, the user input is stored and the user is prompted again with a different level of indentation, depending on the integer returned. Now stuff like:
+Whew! It's easier than it looks. When you provide a `multiLineCallback` to `jqconsole.Prompt`, all user input gets evaluated by this function. When it returns `false`, it means the input is ready for evaluation, and it is passed to the `PromptHandler`. When `multiLineCallback` returns an integer, the user input is stored and the user is prompted again with an incremented or decremented level of indentation, depending on the integer returned (0 for same level, 1 for an increment of one, etc.) Now stuff like:
 
 ```ruby
 def greet(name)
