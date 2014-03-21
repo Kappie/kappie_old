@@ -138,7 +138,8 @@ pre {
 }
 
 code {
-  padding: .1rem .25rem;
+  /* Creates weird offset for first line of code in block */
+  /*padding: .1rem .25rem;*/
 }
 
 .container {
