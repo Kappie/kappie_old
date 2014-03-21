@@ -86,7 +86,7 @@ Now we need to configure the prompt handling of the `jqconsole`:
   startPrompt()
 ```
 
-When the user types something in the console, we `eval` the result in the current language and the appropriate handler (result, input, output, error) gets called. Then we prompt the user again.
+This is all done in `initializeRepl`. When the user types something in the console, we `eval` the result in the current language and the appropriate handler (result, input, output, error) gets called. Then we prompt the user again.
 
 That's it!
 
