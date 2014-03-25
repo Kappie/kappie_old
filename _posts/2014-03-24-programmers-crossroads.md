@@ -26,3 +26,5 @@ Nothing new, of course. Jazz musicians transcribe solos of their favorite artist
 I always aim for this type of learning: stretching the boundaries of your knowledge while getting feedback from someone far better than you.
 
 Exercism made it possible for aspiring programmers.
+
+<small>Drawing by [LooselyLawless](http://looselylawless.deviantart.com/), found via [deviantart](http://www.deviantart.com/).</small>
