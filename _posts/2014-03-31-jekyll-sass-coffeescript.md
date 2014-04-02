@@ -59,3 +59,5 @@ It requires the files `_normalize.sass` and `_variables.sass`. You don't need to
 This command watches all `.coffee` files in the folder `_coffeescripts`. Its output goes into `javascripts`.
 
 If only everything in life was so simple.
+
+**View code [on GitHub](https://github.com/Kappie/jekyll_scaffold)**.
