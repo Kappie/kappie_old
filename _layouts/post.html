@@ -5,10 +5,12 @@
 
 <body>
   <div class="container">
-    <p><a href="/">Terug (that's “back” in Dutch)</a></p>
+    <p><a href="/">Back.</a></p>
     <h2>{{ page.title }}</h1>
     <p>{{ page.date | date: "%B %d, %Y" }}</p>
     {{ content }}
+    <hr>
+    <small>Hey, <a href="mailto:ghkapteijns@gmail.com">drop me a line</a>.</small>
   </div>
 {% include scripts.html %}
 </body>

@@ -1,13 +1,13 @@
-Ik ben natuurkundestudent aan de UvA. Met [ruby{prog}](http://rubyprog.nl) probeer ik middelbare scholieren aan het programmeren te krijgen.
+I study physics in Amsterdam. I teach high schoolers how to program with [ruby{prog}](http://rubyprog.nl).
 
 ![Geert Kapteijns](/geert.jpg)
 
 ## Contact
 
 - Email: [ghkapteijns@gmail.com](mailto:ghkapteijns@gmail.com)
-- Programmeerprojecten: [GitHub](https://github.com/Kappie/) 
+- Programming projects: [GitHub](https://github.com/Kappie/) 
 
-## Berichten
+## Posts
 
 <ul id="blog-posts" class="posts">
 {% for post in site.posts %}
@@ -16,4 +16,4 @@ Ik ben natuurkundestudent aan de UvA. Met [ruby{prog}](http://rubyprog.nl) probe
 {% endfor %}
 </ul>
 
-<small>Mijn pagina is gebaseerd op [Solo](https://github.com/chibicode/solo).</small>
+<small>My page is based on [Solo](https://github.com/chibicode/solo).</small>
