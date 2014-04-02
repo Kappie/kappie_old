@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll, Sass and Coffee. 
+title: Jekyll, Sass and Coffee (without plugins) 
 ---
 
 I improved my workflow by experimenting with Jekyll setups. Type this in and I'll tell you what's up:
