@@ -3,7 +3,7 @@ layout: post
 title: Jekyll, Sass and Coffee (without plugins) 
 ---
 
-I improved my workflow by experimenting with Jekyll setups. Type this in and I'll tell you what's up:
+I improved my workflow by experimenting with Jekyll setups. Type this in:
 
     gem install foreman
 
@@ -22,7 +22,7 @@ Type `foreman start` in directory root and you see:
 Not a worry about recompiling `.coffee` or `.sass` or rebuilding the site.
 
 ### Setting up
-You're familiar with [Compass](http://compass-style.org/) and [CoffeeScript](http://coffeescript.org/), right?
+Are you familiar with [Compass](http://compass-style.org/) and [CoffeeScript](http://coffeescript.org/)?
 
 If not, check them out. Compass is a css framework that uses [Sass](http://sass-lang.com/), a delightful language that compiles into css. CoffeeScript is equally delightful and compiles into JavaScript. The good parts.
 
