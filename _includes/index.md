@@ -1,6 +1,6 @@
-I study physics in Amsterdam. I teach high schoolers how to program with [ruby{prog}](http://rubyprog.nl).
+I study software engineering in Amsterdam. I teach high schoolers how to program with [Rubyprog](http://rubyprog.nl). We also build and design web applications.
 
-![Geert Kapteijns](/geert.jpg)
+![Geert Kapteijns](/geert2.jpg)
 
 ## Contact
 
