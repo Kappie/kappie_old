@@ -85,7 +85,7 @@ After the initial learning curve, it's very easy to construct queries like:
   LIMIT 1
 {% endhighlight %}
 
-which selects the tensor with matching `temperature` and `chi`, but with a smallest available `convergence` bigger or equal to the one specified.
+which selects the tensor with matching `temperature` and `chi`, but with the smallest available `convergence` bigger or equal to the one specified.
 
 A final important issue is query optimalization. The above query does a full table scan to get its result, which quickly gets painful. This \\( \mathcal{O}(N) \\) look-up time can be reduced to \\( \mathcal{O}(k \log N) \\), where \\( N \\) is the number of rows and \\( k \\) the number of matching convergences, by adding an index:
 
