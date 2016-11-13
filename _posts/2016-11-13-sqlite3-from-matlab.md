@@ -53,7 +53,7 @@ Now, we store the data by accessing the database and constructing a SQL query:
 database_id = sqlite3.open('my_database.db');
 query = 'INSERT INTO tensors (tensor, temperature, chi, convergence) VALUES (?, ?, ?, ?)';
 % Pass an argument for each '?' in query.
-sqlite3.execute(database_id, query, getByteStreamFromArray(tensor), temperature, chi, convergence);
+sqlite3.execute(database_id, query, serialize(tensor), temperature, chi, convergence);
 {% endhighlight %}
 
 At a later time, we can query the database to obtain a struct with our data.
