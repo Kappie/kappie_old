@@ -33,10 +33,10 @@ with the sqlite interpreter.) Use `.exit` to exit the interpreter.
 I use the package [`matlab-sqlite3-driver`](https://github.com/kyamagu/matlab-sqlite3-driver) for interfacing with SQL from MATLAB. Suppose we want to store this data:
 
 {% highlight matlab %}
-tensor = rand(2, 2, 2);
 temperature = 3;
 chi  = 16;
 convergence = 1e-7;
+tensor = rand(2, chi, chi);
 {% endhighlight %}
 
 First, we have to serialize `tensor`. That can be done as follows:
