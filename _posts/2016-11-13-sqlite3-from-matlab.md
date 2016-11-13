@@ -93,3 +93,5 @@ A final important issue is query optimalization. The above query does a full tab
   CREATE INDEX index_convergence
   ON tensors (temperature, chi, convergence);
 {% endhighlight %}
+
+On my machine, this reduced the running time of 500 queries from a table with \\( 10^5 \\) rows of random data from 12 seconds to 0.2 seconds.
