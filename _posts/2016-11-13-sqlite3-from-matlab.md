@@ -8,7 +8,7 @@ querying `.mat` files becomes cumbersome. What actually works, even with complex
 [SQL](https://en.wikipedia.org/wiki/SQL) (structured query language).  
 
 SQL is a declarative language, meaning you specify what data you want, not how you want to get it. That means SQL takes
-care of all look-up algorithms. We first create a database from the command line as follows:
+care of all look-up algorithms. We first create a database from the command line:
 
 {% highlight bash %}
 # enter sqlite3 interpreter
