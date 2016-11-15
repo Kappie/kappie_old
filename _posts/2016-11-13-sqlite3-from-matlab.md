@@ -33,10 +33,10 @@ with the sqlite interpreter.) Use `.exit` to exit the interpreter.
 I use the package [`matlab-sqlite3-driver`](https://github.com/kyamagu/matlab-sqlite3-driver) for interfacing with SQL from MATLAB. Suppose we want to store this data:
 
 {% highlight matlab %}
-tensor = rand(2, 2, 2);
 temperature = 3;
 chi  = 16;
 convergence = 1e-7;
+tensor = rand(2, chi, chi);
 {% endhighlight %}
 
 First, we have to serialize `tensor`. That can be done as follows:
@@ -53,7 +53,7 @@ Now, we store the data by accessing the database and constructing a SQL query:
 database_id = sqlite3.open('my_database.db');
 query = 'INSERT INTO tensors (tensor, temperature, chi, convergence) VALUES (?, ?, ?, ?)';
 % Pass an argument for each '?' in query.
-sqlite3.execute(database_id, query, getByteStreamFromArray(tensor), temperature, chi, convergence);
+sqlite3.execute(database_id, query, serialize(tensor), temperature, chi, convergence);
 {% endhighlight %}
 
 At a later time, we can query the database to obtain a struct with our data.
@@ -85,7 +85,7 @@ After the initial learning curve, it's very easy to construct queries like:
   LIMIT 1
 {% endhighlight %}
 
-which selects the tensor with matching `temperature` and `chi`, but with a smallest available `convergence` bigger or equal to the one specified.
+which selects the tensor with matching `temperature` and `chi`, but with the smallest available `convergence` bigger or equal to the one specified.
 
 A final important issue is query optimalization. The above query does a full table scan to get its result, which quickly gets painful. This \\( \mathcal{O}(N) \\) look-up time can be reduced to \\( \mathcal{O}(k \log N) \\), where \\( N \\) is the number of rows and \\( k \\) the number of matching convergences, by adding an index:
 
