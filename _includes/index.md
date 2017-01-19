@@ -8,11 +8,9 @@ In the past:
 
 - got a master's degree in software engineering at the University of Amsterdam
 
-![Geert Kapteijns](/geert2.jpg)
+I can be reached at [ghkapteijns@gmail.com](mailto:ghkapteijns@gmail.com). Here's my [CV](/KapteijnsGeert_CV.pdf).
 
-## Contact
-
-- Email: [ghkapteijns@gmail.com](mailto:ghkapteijns@gmail.com)
+![Geert Kapteijns](/geert_malta.jpg)
 
 ## Posts
 <ul id="blog-posts" class="posts">
@@ -21,3 +19,7 @@ In the past:
   <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
+
+## Effective altruism
+
+Please consider joining [Giving What We Can](https://www.givingwhatwecan.org/), or learn about effective altruism (for example through [Peter Singer's book](http://www.mostgoodyoucando.com/)).
