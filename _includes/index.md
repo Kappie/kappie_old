@@ -2,6 +2,7 @@ What I'm doing now:
 
 - writing my master's thesis in theoretical physics at the University of Amsterdam
 - teaching undergrad problem classes at the University of Amsterdam
+- member of the [SciPost](https://scipost.org) devevelopment team
 - occasionally teaching my co-written programming courses to students and high-schoolers (more information: [Rubyprog](http://rubyprog.nl/))
 
 In the past:
