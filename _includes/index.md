@@ -20,7 +20,3 @@ I can be reached at [ghkapteijns@gmail.com](mailto:ghkapteijns@gmail.com). Here'
   <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
-
-## Effective altruism
-
-Please consider joining [Giving What We Can](https://www.givingwhatwecan.org/), or learn about effective altruism (for example through [Peter Singer's book](http://www.mostgoodyoucando.com/)).
