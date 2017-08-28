@@ -1,15 +1,23 @@
-What I'm doing now:
+I'm looking for a PhD. My activities in the past couple of years:
 
-- writing my master's thesis in theoretical physics at the University of Amsterdam
-- teaching undergrad problem classes at the University of Amsterdam
-- developing for [SciPost](https://scipost.org), the open-access publication portal
-- occasionally teaching my co-written programming courses to students and high-schoolers (more information: [Rubyprog](http://rubyprog.nl/))
+- I just finished my [MSc thesis](./KapteijnsGeert_ThesisFinal.pdf) in
+theoretical physics at the University of Amsterdam, for which I received
+an 8.5.
+- I taught undergrad problem classes at the University of Amsterdam.
+- I taught my own programming
+  courses to students and high schoolers (more information:
+  [Rubyprog](http://rubyprog.nl) -- I might start using them again in the
+  future).
+- I wrote a piece on how the journal sciences should proceed if they
+  want open access: [Scientists: support a self-archiving mandate to free the
+  peer-reviewed journal
+  literature](KapteijnsGeert_ScientistsSupportASelf-ArchivingMandate.pdf). It
+  was written as a response to the horrible official policy in The Netherlands.
+- Before all that I got a MSc software engineering at the University
+  of Amsterdam
 
-In the past:
-
-- got a master's degree in software engineering at the University of Amsterdam
-
-I can be reached at [ghkapteijns@gmail.com](mailto:ghkapteijns@gmail.com). Here's my [CV](/KapteijnsGeert_CV.pdf).
+I can be reached at [ghkapteijns@gmail.com](mailto:ghkapteijns@gmail.com).
+My CV is [here](KapteijnsGeert_CV.pdf).
 
 ![Geert Kapteijns](/geert_malta.jpg)
 
