@@ -1,4 +1,4 @@
-I'm looking for a PhD. My activities in the past couple of years:
+I'm looking for a PhD or a teaching job. My activities in the past couple of years:
 
 - I just finished my [MSc thesis](./KapteijnsGeert_ThesisFinal.pdf) in
 theoretical physics at the University of Amsterdam, for which I received
