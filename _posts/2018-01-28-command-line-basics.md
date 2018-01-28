@@ -30,6 +30,12 @@ of a file or command that applies to your case. You shouldn't actually type `<` 
 - `mkdir <dirname>` -- creates directory.
 - `rmdir <dirname>` -- removes directory.
 - `man <command>` -- shows manual page of command.
+- `clear` -- clears terminal window.
 - `python <program>` -- our star: calls the Python interpreter to execute a program.
   * `python hello_world.py`
   * `python` -- (no arguments) opens interactive Python interpreter.
+
+Two *very* useful tricks:
+
+- press the up and down arrows to cycle through commands you've entered previously.
+- press Tab to auto-complete a command you're currently typing.
