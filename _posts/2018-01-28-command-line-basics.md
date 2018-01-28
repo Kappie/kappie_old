@@ -32,3 +32,4 @@ of a file or command that applies to your case. You shouldn't actually type `<` 
 - `man <command>` -- shows manual page of command.
 - `python <program>` -- our star: calls the Python interpreter to execute a program.
   * `python hello_world.py`
+  * `python` -- (no arguments) opens interactive Python interpreter.
