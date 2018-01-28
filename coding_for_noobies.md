@@ -1,5 +1,7 @@
 ---
 layout: blog
-title: Blog
+title: Coding for Noobies
 permalink: "/coding-for-noobies/"
 ---
+
+# Coding for Noobies

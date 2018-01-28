@@ -49,3 +49,9 @@ $on-laptop:        600px !default;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+.footnotes {
+  // font-size: $small-font-size;
+
+  @include relative-font-size(0.8);
+}
