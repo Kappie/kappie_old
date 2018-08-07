@@ -16,3 +16,35 @@ with the goal of understanding the role these excitations play in determining th
 - Amsterdam Science Park 904, office C4.159.
 - E-mail: [g.h.kapteijns@uva.nl](g.h.kapteijns@uva.nl)
 - [CV](english.pdf) (August 2018)
+
+
+## Some pictures (see [publications](/publications.html))
+
+<figure>
+  <img src="{{site.url}}/prl_modes.png" alt="my alt text"/>
+
+  <figcaption>
+Visualizations of soft quasilocalized vibrational modes in (a) 2D, (b) 3D, and (c) a 3D projection of a 4D mode.
+(d) Symbols represent the spatial decay of the squared magnitude of the modes shown in panels (a)–(c), as a function of the distance 
+\(r\) away from the modes’ respective cores. <em>From:
+<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.055501">Phys. Rev. Lett. <b>121</b>, 055501</a></em>.
+</figcaption>
+</figure>
+
+<figure>
+  <img src="{{site.url}}/fsp_pic.png" alt="my alt text"/>
+
+  <figcaption>
+
+Stress-strain curves for ‘quick-and-dirty’ computer glasses made with \(k_{\lambda} = 10^4\)
+, \(3 \times 10^3\)
+, \(10^3\) and \(10^1\)
+, from (a) to (d). Stresses are
+rescaled by their respective average steady-state values. The large insets show representative snapshots of the deformed solids; the color
+coding represents the magnitude of total nonaffine displacements \(\delta x\) measured between \(\gamma = 0\) and \( \gamma = 0.13 \),
+rescaled by the length \( \rho^{−1/3} \).
+The small inset illustrates the geometry of the applied shear deformation.
+<em>From:
+<a href="https://arxiv.org/abs/1808.00018">arXiv:1808.00018</a></em>.
+</figcaption>
+</figure>

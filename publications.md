@@ -3,6 +3,8 @@ layout: default
 title: Publications
 ---
 
+# Publications
+
 ## Pre-prints
 
 
@@ -18,3 +20,6 @@ Geert Kapteijns, Eran Bouchbinder, Edan Lerner:
 Philippe Corboz, Piotr Czarnik, Geert Kapteijns, Luca Tagliacozzo,
 *Finite Correlation Length Scaling with Infinite Projected Entangled-Pair States*:
 [Phys. Rev. X **8**, 031031](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.031031).
+
+
+
