@@ -9,7 +9,7 @@ title: Publications
 
 
 Geert Kapteijns, Wencheng Ji, Carolina Brito, Matthieu Wyart,
-Edan Lerner, *Fast generation of ultrastable computer glasses by minimization of an augmented potential energy*, [](Phys. Rev. E <b>99</b>, 012106 (2019)).
+Edan Lerner, *Fast generation of ultrastable computer glasses by minimization of an augmented potential energy*, [https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.012106](Phys. Rev. E <b>99</b>, 012106 (2019)).
 
 
 ## 2018
