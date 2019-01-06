@@ -36,10 +36,7 @@ Visualizations of soft quasilocalized vibrational modes in (a) 2D, (b) 3D, and (
 
   <figcaption>
 
-Stress-strain curves for computer glasses made with \(k_{\lambda} = 10^4\)
-, \(3 \times 10^3\)
-, \(10^3\) and \(10^1\)
-, from (a) to (d). Stresses are
+Stress-strain curves for computer glasses made with \(k_{\lambda} = 10^4\), \(3 \times 10^3\), \(10^3\) and \(10^1\) [\(k_{\lambda}\) controls glass stability in our protocol], from (a) to (d). Stresses are
 rescaled by their respective average steady-state values. The large insets show representative snapshots of the deformed solids; the color
 coding represents the magnitude of total nonaffine displacements \(\delta x\) measured between \(\gamma = 0\) and \( \gamma = 0.13 \),
 rescaled by the length \( \rho^{−1/3} \).
