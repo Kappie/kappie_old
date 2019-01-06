@@ -5,11 +5,11 @@ title: Publications
 
 # Publications
 
-## Pre-prints
+## 2019
 
 
 Geert Kapteijns, Wencheng Ji, Carolina Brito, Matthieu Wyart,
-Edan Lerner, *‘Quick-and-dirty’ ultrastable computer glasses*, [arXiv:1808.00018](https://arxiv.org/abs/1808.00018).
+Edan Lerner, *Fast generation of ultrastable computer glasses by minimization of an augmented potential energy*, [](Phys. Rev. E <b>99</b>, 012106 (2019)).
 
 
 ## 2018

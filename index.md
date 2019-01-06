@@ -36,7 +36,7 @@ Visualizations of soft quasilocalized vibrational modes in (a) 2D, (b) 3D, and (
 
   <figcaption>
 
-Stress-strain curves for ‘quick-and-dirty’ computer glasses made with \(k_{\lambda} = 10^4\)
+Stress-strain curves for computer glasses made with \(k_{\lambda} = 10^4\)
 , \(3 \times 10^3\)
 , \(10^3\) and \(10^1\)
 , from (a) to (d). Stresses are
@@ -45,6 +45,6 @@ coding represents the magnitude of total nonaffine displacements \(\delta x\) me
 rescaled by the length \( \rho^{−1/3} \).
 The small inset illustrates the geometry of the applied shear deformation.
 <em>From:
-<a href="https://arxiv.org/abs/1808.00018">arXiv:1808.00018</a></em>.
+<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.012106">Phys. Rev. E <b>99</b>, 012106</a></em>.
 </figcaption>
 </figure>
