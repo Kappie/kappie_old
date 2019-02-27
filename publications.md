@@ -5,6 +5,9 @@ title: Publications
 
 # Publications
 
+## Preprints
+Corrado Rainone, Avraham Moriel, Geert Kapteijns, Eran Bouchbinder, Edan Lerner, *Finite-size effects on sound damping in stable computer glasses*, [arXiv:1902.06225](https://arxiv.org/abs/1902.06225).
+
 ## 2019
 
 
