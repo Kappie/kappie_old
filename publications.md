@@ -7,9 +7,8 @@ title: Publications
 
 ## Preprints
 
-Avraham Moriel, Geert Kapteijns, Corrado Rainone, Jacques Zylberg, Edan Lerner, Eran Bouchbinder, *Wave attenuation in glasses: Rayleigh and generalized-Rayleigh scattering scaling*,	[arXiv:1905.03378](https://arxiv.org/abs/1905.03378).
 ## 2019
-
+Avraham Moriel, Geert Kapteijns, Corrado Rainone, Jacques Zylberg, Edan Lerner, Eran Bouchbinder, *Wave attenuation in glasses: Rayleigh and generalized-Rayleigh scattering scaling*, [J. Chem. Phys. **151**, 104503 (2019)](https://aip.scitation.org/doi/full/10.1063/1.5111192)
 
 Geert Kapteijns, Wencheng Ji, Carolina Brito, Matthieu Wyart,
 Edan Lerner, *Fast generation of ultrastable computer glasses by minimization of an augmented potential energy*, [Phys. Rev. E <b>99</b>, 012106 (2019)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.012106).
